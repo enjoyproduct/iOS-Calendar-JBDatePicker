@@ -199,9 +199,6 @@ Example Project
 ==========
 An example project is included with this repo. To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-Author
-==========
-Joost van Breukelen
 
 License
 ==========
